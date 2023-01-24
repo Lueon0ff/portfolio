@@ -18,7 +18,7 @@ body /* Tout le site */
   margin:0 auto; /* La zone de width au millieu de la page */
   background-color: white; /* Couleur de block */
   text-align: center; /* Centre les texts */
-  align-content: center; /* Centre les lignes */
+  align-content: center; /* Centre  les lignes */
 }
 
 ul li
